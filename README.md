@@ -1,0 +1,1 @@
+# DIO--Nexa---Fundamentos-de-IA-Generativa-com-Bedrock-resumos
