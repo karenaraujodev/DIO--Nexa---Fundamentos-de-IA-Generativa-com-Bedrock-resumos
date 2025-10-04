@@ -20,7 +20,7 @@ O objetivo deste repositório é registrar resumos com aprendizados, exemplos e 
 |------|------|
 | 01 | [resumo](https://github.com/karenaraujodev/DIO--Nexa---Fundamentos-de-IA-Generativa-com-Bedrock-resumos/blob/main/aulas/aula01.md) |
 | 02 | [resumo](https://github.com/karenaraujodev/DIO--Nexa---Fundamentos-de-IA-Generativa-com-Bedrock-resumos/blob/main/aulas/aula02.md)|
-
+| 03 | [resumo](https://github.com/karenaraujodev/DIO--Nexa---Fundamentos-de-IA-Generativa-com-Bedrock-resumos/blob/main/aulas/aula03.md)|
 
 
 ---
